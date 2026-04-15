@@ -172,4 +172,3 @@ java alat.MainAlat
 ## 📚 Lisensi
 
 Kelompok 8 
-Digunakan untuk keperluan pembelajaran OOP.
